@@ -25,7 +25,7 @@ Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
 2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/d365a5de71e84ec798ceb95995ebbee8)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSI-US-11 Regression Challenge](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge)
+3. Review the material on the [DSIR-1011 Regression Challenge](https://www.kaggle.com/c/dsir-1011-project-2-regression-challenge)
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 ## The Modeling Process
@@ -47,28 +47,26 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-Materials must be submitted by the beginning of class on **Friday, April 10**.
-
-The last day for the Kaggle competition will be **Friday, April 10**.
+Materials must be submitted by the beginning of class on **Friday, Nov. 5**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
 - A README.md (that isn't this file)
 - Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- At least one successful prediction submission on [DSI-US-11 Regression Challenge](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge/leaderboard)" tab.
+- At least one successful prediction submission on [DSIR-1011 Regression Challenge](https://www.kaggle.com/c/dsir-1011-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsir-1011-project-2-regression-challenge/leaderboard)" tab.
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
 
-**Check with your local instructor for how they would like you to submit your repo for review.**
+**Submit your materials through our [google classroom](https://classroom.google.com/u/1/c/NDEwMTU3NDY4OTQ4).**
 
 ---
 
 ## Presentation Structure
 
-- **Must be within time limit established by local instructor.**
+- **Must be within 5 minutes.**
 - Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
-- Consider the audience. **Check with your local instructor for direction**.
+- Consider the audience. **Semi-technical**.
 - Start with the **data science problem**.
 - Use visuals that are appropriately scaled and interpretable.
 - Talk about your procedure/methodology (high level).
@@ -80,7 +78,7 @@ Be sure to rehearse and time your presentation before class.
 ---
 
 ## Rubric
-Your local instructor will evaluate your project (for the most part) using the following criteria.  You should make sure that you consider and/or follow most if not all of the considerations/recommendations outlined below **while** working through your project.
+We will evaluate your project (for the most part) using the following criteria.  You should make sure that you consider and/or follow most if not all of the considerations/recommendations outlined below **while** working through your project.
 
 **Scores will be out of 27 points based on the 9 items in the rubric.** <br>
 *3 points per section*<br>
