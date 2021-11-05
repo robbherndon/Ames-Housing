@@ -22,10 +22,10 @@ The first model I created under valued the homes by $6,000
 ![](visualizations/MLR%20with%20Feature%20Engineering.png)
 
 The second model I created under valued the homes by $5,500
-![Polynomial](visualizations/Polynomial%20Predictions%20vs%20Real%20Value.png)
+![](visualizations/Polynomial%20Predictions%20vs%20Real%20Value.png)
 
 The third model I created under valued the homes by $8,500
-![Lasso](visualizations/Lasso%20vs%20Real.png)
+![](visualizations/Lasso%20vs%20Real.png)
 
 ## Data Used
 
