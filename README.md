@@ -19,7 +19,7 @@ What I will show in this research is that the models consistently predict prices
 
 The first model I created under valued the homes by $6,000
 
-![MLR](visualizations/MLR%20with%20Feature%20Engineering.png)
+![](visualizations/MLR%20with%20Feature%20Engineering.png)
 
 The second model I created under valued the homes by $5,500
 ![Polynomial](visualizations/Polynomial%20Predictions%20vs%20Real%20Value.png)
